@@ -7,9 +7,6 @@ You may need to relaunch the launcher if an update is available, but you don't s
 **Step 2:** Click on "Modpack Settings"
 ![Where is that?](/assets/technic-update-2.png)
 
-**Step 5:** Ensure that "Recommended Version" is selected, then click "Reinstall Pack". **This will delete any singleplayer worlds and reset all settings**
+**Step 3:** Ensure that "Recommended Version" is selected, then click "Reinstall Pack". **This will delete any singleplayer worlds and reset all settings**
+![Where is the reinstall button?](/assets/technic-update-3.png)
 
-![Where is the install button?](/assets/technic-update-3.png)
-
-**To launch, click on "Poiesis Ultralight" in the sidebar, then click play.**
-![Where is the play button?](/assets/technic-install-3.png)
