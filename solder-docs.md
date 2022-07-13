@@ -18,6 +18,8 @@ To create a Technic/Solder mod file, you create a directory structure inside you
 
 You must use a SCP (Secure Copy) client to transfer mods to our solder server, as solder doesn't have it's own web interface for managing files.
 
+Mod Directory: /var/www/repo.poiesis.education/mods
+
 ### A note on bins
 
 The "bin" folder is a special folder to the technic launcher, as it contains the modloader technic is meant to use for the pack. 
