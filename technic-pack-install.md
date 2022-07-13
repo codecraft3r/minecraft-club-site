@@ -1,6 +1,6 @@
 ## Technic Install Instructions
 
-**Step 1:** Install Java 8. Download Link: [www.java.com/download/ie_manual.jsp](https://www.java.com/download/manual.jsp)
+**Step 1:** Install Java 8. Download Link: [www.java.com/download/manual.jsp](https://www.java.com/download/manual.jsp)
 (Make sure to select the x64 option. If you can't run the installer and you're on windows, add .exe to the end of the filename)
 
 **Step 2:** Install the Technic Launcher for your platform. Download link: [https://www.technicpack.net/download](https://www.technicpack.net/download) 
