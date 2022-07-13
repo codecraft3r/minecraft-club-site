@@ -22,7 +22,9 @@ You must use a SCP (Secure Copy) client to transfer mods to our solder server, a
 
 The "bin" folder is a special folder to the technic launcher, as it contains the modloader technic is meant to use for the pack. 
 
-If you're using forge, you have to download the correct forge installer, name it modpack.jar, put it in the bin folder, and send the bin folder to a .zip (name it something like forge-<mc version no dots>-<version no dots>-1.zip).
+If you're using forge, you have to download the correct forge installer, name it modpack.jar, put it in the bin folder, and send the bin folder to a .zip (name it something like forge-<mc version no dots>-<forge version with dots>.zip).
+
+If you're using fabric, you have to download the correct version.json file from fabric's site ([https://fabricmc.net/use/technic/](https://fabricmc.net/use/technic/)), put it in the bin folder, and send the bin folder to a .zip (name it something like fabric-<mc version no dots>-<fabric version with dots>.zip).
   
 ### Okay, so how do I make a pack?
 
