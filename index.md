@@ -1,3 +1,3 @@
-## Poiesis Minecraft Server Wiki
+## Poiesis Wiki
 
 
