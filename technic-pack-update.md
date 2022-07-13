@@ -11,7 +11,7 @@ You may need to relaunch the launcher if an update is available, but you don't s
 
 **Step 3:** Ensure that "Recommended Version" is selected, then click "Reinstall Pack". 
 
-**IMPORTANT NOTE - This will delete any singleplayer worlds and reset all settings!**
+<span style="color:red">**IMPORTANT NOTE - This will delete any singleplayer worlds and reset all settings!**</span>
 
 ![Where is the reinstall button?](/assets/technic-update-3.png)
 
