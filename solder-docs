@@ -12,6 +12,9 @@ As such, a Solder mod can contain basically anything (configs, mods, shaderpacks
 To create a Technic/Solder mod file, you create a directory structure inside your .zip like one of the examples below (NB - A mod can contain more than one folder, and each folder can contain more than one file)
 ![Mod Package Structure](/assets/technic-mod-package-structure.png)
 
+# Uploading Solder Mods
+You must use a SCP (Secure Copy) client to transfer mods to our solder server, as solder doesn't have it's own web interface for managing files.
+
 # A note on bins
 The "bin" folder is a special folder to the technic launcher, as it contains the modloader technic is meant to use for the pack. 
 
