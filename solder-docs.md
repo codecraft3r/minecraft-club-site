@@ -4,29 +4,35 @@
 
 If you're a regular user, this doesn't concern you.
 
-# What is a Solder mod?
+### What is a Solder mod?
+
 Technic/Solder defines a mod as a .zip file that gets extracted to the root of your minecraft install. 
 As such, a Solder mod can contain basically anything (configs, mods, shaderpacks, you name it).
 
-# How do I use Solder mods?
+### How do I use Solder mods?
+
 To create a Technic/Solder mod file, you create a directory structure inside your .zip like one of the examples below (NB - A mod can contain more than one folder, and each folder can contain more than one file)
 ![Mod Package Structure](/assets/technic-mod-package-structure.png)
 
-# Uploading Solder Mods
+### Uploading Solder Mods
+
 You must use a SCP (Secure Copy) client to transfer mods to our solder server, as solder doesn't have it's own web interface for managing files.
 
-# A note on bins
+### A note on bins
+
 The "bin" folder is a special folder to the technic launcher, as it contains the modloader technic is meant to use for the pack. 
 
 If you're using forge, you have to download the correct forge installer, name it modpack.jar, put it in the bin folder, and send the bin folder to a .zip (name it something like forge-<mc version no dots>-<version no dots>-1.zip).
+  
+### Okay, so how do I make a pack?
 
-# Okay, so how do I make a pack?
 You can't upload modpack files to solder. What you have to do is upload all the mods you want in the pack as a single Solder mod called <modpack name>-modbundle-<modpack version>, 
 upload all the configs as a Solder mod called <modpack name>-configbundle-<modpack version>, 
 and upload any other neccesary root directory folders as a Solder mod called <modpack name>-extra-<modpack version>.
 
 Now that that's done, you make a new Solder modpack, make a new build, and add to it all the Solder mods you just uploaded.
 
-# Updating Modpacks
+### Updating Modpacks
+
 To update a modpack, you need to update the Solder mod that would contain the file you want to add (if it's a mod, you update the modbundle, if it's a config file, you update the configbundle, etc).
 Once you've updated the solder mod, you make a new build of the pack, make this build a clone of the previous build and change the version of the affected Solder mod(s).
