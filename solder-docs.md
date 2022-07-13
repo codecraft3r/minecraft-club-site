@@ -30,7 +30,7 @@ If you're using fabric, you have to download the correct version.json file from 
 
 You can't upload modpack files to solder. What you have to do is upload all the mods you want in the pack as a single Solder mod called \<modpack name\>-modbundle-\<modpack version\>, 
 upload all the configs as a Solder mod called \<modpack name\>-configbundle-\<modpack version\>, 
-and upload any other neccesary root directory folders as a Solder mod called \<modpack name\>-extra-\<modpack version\>.
+and upload any other neccesary folders on the root of the pack as a Solder mod called \<modpack name\>-extra-\<modpack version\>.
 
 Now that that's done, you make a new Solder modpack, make a new build, and add to it all the Solder mods you just uploaded.
 
