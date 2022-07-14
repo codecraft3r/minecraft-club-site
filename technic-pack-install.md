@@ -1,6 +1,6 @@
 ## Technic Modpack Installation Instructions
 
-**Step 1:** Copy the technic link of the desired pack from #active-packs and paste it into the technic launcher's search bar 
+**Step 1:** Copy the technic link of the desired pack from #active-packs (or #legacy-library if it's a legacy pack) and paste it into the technic launcher's search bar 
 
 ![Where is the search bar?](/assets/technic-install-1.png)
 
