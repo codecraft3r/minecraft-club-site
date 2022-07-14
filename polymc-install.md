@@ -1,8 +1,8 @@
 ## Installing PolyMC
 
-<span style="color:red">**WARNING: Highly Technical Guide!**</span>
+<span style="color:red">**WARNING: This launcher is NOT recommended, and should only be used if you cannot use the Technic Launcher!**</span>
 
-**This method is NOT recommended, and should only be used if you cannot use the Technic Launcher**
+*You will likely encounter minor problems and annoyances if you use PolyMC*
 
 ### Step 1 - Install Java
 
