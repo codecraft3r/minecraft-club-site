@@ -1,19 +1,14 @@
-## Technic Install Instructions
+## Technic Modpack Installation Instructions
 
-**Step 1:** Install Java 8. Download Link: [www.java.com/download/manual.jsp](https://www.java.com/download/manual.jsp)
-(Make sure to select the x64 option. If you can't run the installer and you're on windows, add .exe to the end of the filename)
-
-**Step 2:** Install the Technic Launcher for your platform. Download link: [https://www.technicpack.net/download](https://www.technicpack.net/download) 
-
-**Step 3:** Copy the technic link of the desired pack from #active-packs and paste it into the technic launcher's search bar 
+**Step 1:** Copy the technic link of the desired pack from #active-packs and paste it into the technic launcher's search bar 
 
 ![Where is the search bar?](/assets/technic-install-3.png)
 
-**Step 4:** Click "Install" 
+**Step 2:** Click "Install" 
 
 ![Where is the install button?](/assets/technic-install-2.png)
 
-**To launch, click on "Poiesis Ultralight" in the sidebar, then click play.** 
+**To launch, click on the pack in the sidebar, then click play.** 
 
 ![Where is the play button?](/assets/technic-install-3.png)
 
