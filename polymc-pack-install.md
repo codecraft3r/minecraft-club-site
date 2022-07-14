@@ -31,3 +31,7 @@
 **Step 7:** Select the correct java version (Java 8 for Minecraft versions 1.16.5 and older, Java 17 for Minecraft versions 1.17 and newer), then click "OK"
 
 ![Add Instance](/assets/polymc-install-7.png)
+
+**The pack is now installed.** Don't forget to add the modded poiesis server (ip in #server-details) to your multiplayer menu!
+
+**Need Help?:** If you need help with the install, send a message in #tech-help and tag @Support. If you need to be whitelisted, let us know via the link in #get-whitelisted
