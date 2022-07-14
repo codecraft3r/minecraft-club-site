@@ -1,6 +1,6 @@
 ## Installing Modpacks with PolyMC
 
-<span style="color:red">**WARNING: Highly Technical Guide!**</span>
+<span style="color:red">**WARNING: Technical Guide!**</span>
 
 **If you're not using PolyMC, this doesn't concern you.**
 
