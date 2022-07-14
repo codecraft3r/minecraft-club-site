@@ -2,7 +2,7 @@
 
 **Step 1:** Copy the technic link of the desired pack from #active-packs and paste it into the technic launcher's search bar 
 
-![Where is the search bar?](/assets/technic-install-3.png)
+![Where is the search bar?](/assets/technic-install-1.png)
 
 **Step 2:** Click "Install" 
 
