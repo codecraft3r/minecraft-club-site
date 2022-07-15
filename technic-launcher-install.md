@@ -1,6 +1,6 @@
 ## Technic Launcher Install
 
-**Step 1:** Install Java 8 for your platform. If on windows, select "Windows Offline x64" on the download page. Link: [www.java.com/download/manual.jsp](https://www.java.com/download/manual.jsp)
+**Step 1:** Install Java 8 for your platform. If on windows, select "Windows Offline (64 bit)" on the download page. Link: [www.java.com/download/manual.jsp](https://www.java.com/download/manual.jsp)
 (If you can't run the installer and you're on windows, add .exe to the end of the filename)
 
 **Step 2:** Install the Technic Launcher for your platform. Link: [https://www.technicpack.net/download](https://www.technicpack.net/download)
