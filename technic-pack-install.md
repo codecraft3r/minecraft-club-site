@@ -6,7 +6,7 @@
 
 **Step 2:** Click "Install" 
 
-![Where is the install button?](/assets/technic-install-2.png)
+![Where is the install button?](/assets/technic-update-launcher-2)
 
 **To launch, click on the pack in the sidebar, then click play.** 
 
