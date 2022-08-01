@@ -1,7 +1,7 @@
 ## Technic Modpack Installation Instructions
 
 **Step 1:** Copy the technic link of the desired pack below and paste it into the technic launcher's search bar 
-  - Poiesis Modded Server: `https://api.technicpack.net/modpack/createdeadahead`
+  - Poiesis Official Modpack: `https://api.technicpack.net/modpack/createdeadahead`
   - Poiesis Ultralight: `https://api.technicpack.net/modpack/ultralight`
 
 ![Where is the search bar?](/assets/technic-install-1.png)
