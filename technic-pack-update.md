@@ -7,7 +7,7 @@ You may need to relaunch the launcher if you know an update is available, but yo
 
 **Step 2:** Click "Play"
 
-![Where is that?](/assets/technic-install-3.png)
+![Where is that?](/assets/technic-update-launcher-2.png)
 
 **Step 3:** Click "Yes" to update. 
 
