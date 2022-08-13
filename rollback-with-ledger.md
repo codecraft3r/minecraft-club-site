@@ -27,4 +27,4 @@ To undo player actions with ledger, you use the command /ledger rollback <params
     - Selects actions from after the point in time that was provided. Example: after:1d selects all actions that occurred after yesterday
   
 ### Example Commands
-  /ledger preview rollback action:block-break after:1d world:minecraft:overworld source:Player123 - This command replaces every block broken by player Player123 after yesterday in the overworld
+  /ledger rollback action:block-break after:1d world:minecraft:overworld source:Player123 - This command replaces every block broken by player Player123 after yesterday in the overworld
