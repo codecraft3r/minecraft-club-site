@@ -4,9 +4,10 @@
   - Poiesis Official Modpack: `https://api.technicpack.net/modpack/createdeadahead` 
     - *This pack can join the official modded server. Probably the one you want!*
   - Poiesis Ultralight: `https://api.technicpack.net/modpack/ultralight`
-    - *This pack is compatible with any vanilla server*
+    - *This pack is compatible with any vanilla server.*
   - Poiesis Preview Pack `https://api.technicpack.net/modpack/poiesis-preview`
-    - *This pack is pre-release software and as such can't join the official servers!*
+    - *This pack is pre-release software, and can break at any time for no reason!* 
+    - *If you have the "Beta Tester role", you can join the poiesis dev server with this pack.*
 
 ![Where is the search bar?](/assets/technic-install-1.png)
 
