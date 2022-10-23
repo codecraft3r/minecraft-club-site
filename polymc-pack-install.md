@@ -1,8 +1,8 @@
-## Installing Modpacks with PolyMC
+## Installing Modpacks with PrismLauncher
 
 <span style="color:red">**WARNING: Potentially Difficult Guide!**</span>
 
-**If you're not using PolyMC, this doesn't concern you.**
+**If you're not using PrismLauncher, this doesn't concern you.**
 
 **Step 1:** Click "Add Instance".
 
