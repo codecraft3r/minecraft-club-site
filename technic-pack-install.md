@@ -24,4 +24,4 @@
 
 **Need Help?:** If you need help with the install, send a message in #tech-help and tag @Support. If you need to be whitelisted, let us know via the link in #get-whitelisted
 
-**Can't use Technic?:** We don't recommend using anything other than the Technic launcher or the default Minecraft launcher. However, if your computer can't run Technic, you can download PolyMC ([https://polymc.org/download/](https://polymc.org/download/)) and load the modpack from the "Technic" tab.
+**Can't use Technic?:** We don't recommend using anything other than the Technic launcher or the default Minecraft launcher. However, if your computer can't run Technic, you can download PrismLauncher ([https://prismlauncher.org/download/](https://prismlauncher.org/download/)) and load the modpack from the "Technic" tab.
