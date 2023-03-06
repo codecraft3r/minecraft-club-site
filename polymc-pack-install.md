@@ -12,7 +12,7 @@
 
 ![Add Instance](/assets/polymc-install-2.png)
 
-**Step 3:** Click on the top (and only) search result, then click OK,
+**Step 3:** Click on the top (and only) search result, then click OK. (I'm using RLCraft here as an example, but the result is the same with any technic api url)
 
 ![Add Instance](/assets/polymc-install-3.png)
 
